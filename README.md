@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MrMoon24 Im a begginer whos trying to learn how to code
-- 👀 I’m interested in video games, movies, and music
-- 🌱 I’m currently learning what field of programming is for me, taking a look into languages like python and html
-- 💞️ I’m looking to collaborate on nothing (idk how to code yet)
-- 📫 How to reach me Mr.Moon#7024 on discord :)
+- 🌱 Currently a student at harvard's summer program taking PHYS S-12 and CSCI S-7
+- 📫 You can reach me at Mr.Moon#5266 on discord for now
 
 <!---
 MrMoon24/MrMoon24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
