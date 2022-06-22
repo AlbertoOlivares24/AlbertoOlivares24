@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrMoon24 Im a begginer whos trying to learn how to code
+- 👋 Hi, I’m @AlbertoOlivares24 Im a begginer whos trying to learn how to code
 - 🌱 Currently a student at harvard's summer program taking PHYS S-12 and CSCI S-7
 - 📫 You can reach me at Mr.Moon#5266 on discord for now
 
