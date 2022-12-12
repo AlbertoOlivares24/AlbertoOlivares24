@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlbertoOlivares24 Im a begginer programming trying to improve
-- 🌱 Currently a student at CBHS 
+- 🌱 Student
 - 📫 You can reach me at Mr.Moon#5266 on discord for now 
 
 <!---
