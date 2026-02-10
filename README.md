@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Alberto, I'm a student at Florida International University in the hopes of becoming a software engineer.
-- 🌱 I have experience with Python, Java, some C++ and web-development.
-- 📫 You can reach me at mr.m00n
+- 🌱 I have experience with Python, Java, C++, C# and web-development.
+- 📫 You can reach me at mr.m00n on discord or my email: albertolivaresruiz@gmail.com
 
 <!---
 MrMoon24/MrMoon24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
